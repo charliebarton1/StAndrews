@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "python-envs.defaultEnvManager": "ms-python.python:system"
 }
+=======
+    "gitdoc.enabled": true
+}
+>>>>>>> 8e65b9b83f9b69930c0e23bddab5d05ccaadb904
