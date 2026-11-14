@@ -29,7 +29,7 @@ class Date:
 
 
 def main():
-    birthday = Date(input("What's your birthday?"))
+    birthday = Date(input("What's your birthday? (yyyy-dd-mm)"))
     minutes = Date.days(birthday)
     print(f"{num2words(minutes)} minutes")
 
